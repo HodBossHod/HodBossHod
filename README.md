@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hadi Ehab</h1>
-<h3 align="center">A junior at Faculty of Computer and Information Sciences - Ain Shams University</h3>
+<h3 align="center">A senior at Faculty of Computer and Information Sciences - Ain Shams University</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
